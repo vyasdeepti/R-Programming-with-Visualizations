@@ -202,16 +202,9 @@ shinyApp(ui = ui, server = server)
 - [R Graph Gallery](https://www.r-graph-gallery.com/)
 - [Shiny Documentation](https://shiny.rstudio.com/)
 
----
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for bug fixes, documentation improvements, or new examples.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+The repository "R_Programming_Concepts" (https://github.com/vyasdeepti/R_Programming_Concepts) is a private project owned by vyasdeepti.
+It intends to organize, demonstrate, and teach various concepts related to R programming. The repository includes code examples, scripts, and educational materials covering fundamental and advanced topics in R.
 
 ---
