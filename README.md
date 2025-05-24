@@ -36,7 +36,7 @@ This project provides a comprehensive guide to using R for data analysis, focusi
 
 ### Prerequisites
 
-- R (version 4.0 or higher recommended) [Download link](https://cran.r-project.org/bin/windows/base/)
+- R (version 4.0 or higher recommended) [Download link](https://www.r-project.org/)
 - RStudio (optional but recommended) [Download link](https://posit.co/download/rstudio-desktop/)
 - Basic understanding of R syntax
 
