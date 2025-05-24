@@ -38,6 +38,7 @@ This project provides a comprehensive guide to using R for data analysis, focusi
 
 - R (version 4.0 or higher recommended) [Download link](https://www.r-project.org/)
 - RStudio (optional but recommended) [Download link](https://posit.co/download/rstudio-desktop/)
+- [Anaconda Navigator- R Studio](https://www.anaconda.com/products/navigator)
 - Basic understanding of R syntax
 
 ### Installation
