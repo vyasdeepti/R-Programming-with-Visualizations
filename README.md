@@ -16,7 +16,7 @@ This project provides a comprehensive guide to using R for data analysis, focusi
 7. 🎨 [Interactive Visualizations](#interactive-visualizations)
 8. 📦 [Best Practices](#best-practices)
 9. ✨ [Sample Projects](#sample-projects)
-10. [References](#references)
+10. 🔗[References](#references)
     
 
 ---
