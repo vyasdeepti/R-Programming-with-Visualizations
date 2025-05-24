@@ -1,6 +1,7 @@
 # R Programming with Visualizations
 
-Welcome to the **R Programming with Visualizations** repository! This project provides a comprehensive guide to using R for data analysis, focusing on creating impactful visualizations. Whether you're a beginner or an experienced R user, you'll find practical examples, explanations, and code snippets to help you master data visualization in R.
+Welcome to the **R Programming with Visualizations** repository! 
+This project provides a comprehensive guide to using R for data analysis, focusing on creating impactful visualizations. Whether you're a beginner or an experienced R user, you'll find practical examples, explanations, and code snippets to help you master data visualization in R.
 
 ---
 
@@ -16,8 +17,7 @@ Welcome to the **R Programming with Visualizations** repository! This project pr
 8. [Best Practices](#best-practices)
 9. [Sample Projects](#sample-projects)
 10. [References](#references)
-11. [Contributing](#contributing)
-12. [License](#license)
+    
 
 ---
 
