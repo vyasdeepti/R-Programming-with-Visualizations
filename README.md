@@ -7,16 +7,16 @@ This project provides a comprehensive guide to using R for data analysis, focusi
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Data Preparation](#data-preparation)
-4. [Basic Visualizations](#basic-visualizations)
-5. [Advanced Visualizations](#advanced-visualizations)
-6. [Customizing Plots](#customizing-plots)
-7. [Interactive Visualizations](#interactive-visualizations)
-8. [Best Practices](#best-practices)
-9. [Sample Projects](#sample-projects)
-10. [References](#references)
+1. 📚 [Introduction](#introduction)
+2. 📚 [Getting Started](#getting-started)
+3. 📈 [Data Preparation](#data-preparation)
+4. 📊 [Basic Visualizations](#basic-visualizations)
+5. 🎨 [Advanced Visualizations](#advanced-visualizations)
+6. 🧩 [Customizing Plots](#customizing-plots)
+7. 🎨 [Interactive Visualizations](#interactive-visualizations)
+8. 📦 [Best Practices](#best-practices)
+9. ✨ [Sample Projects](#sample-projects)
+10.✨[References](#references)
     
 
 ---
