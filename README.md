@@ -222,8 +222,6 @@ shinyApp(ui = ui, server = server)
 - [Shiny Documentation](https://shiny.rstudio.com/)
 
 
-![Visitor Count](https://profile-counter.glitch.me/vyasdeepti/count.svg)
-
 The repository [R Programming with Visualizations](https://github.com/vyasdeepti/R_Programming_Concepts) is a private repository owned by vyasdeepti.
 It intends to organize, demonstrate, and teach various concepts related to R programming. The repository includes code examples, scripts, and educational materials covering fundamental topics in R.
 
