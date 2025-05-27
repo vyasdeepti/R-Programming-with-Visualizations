@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/vyasdeepti/count.svg)
+
 # R Programming with Visualizations 🎨
 
 Welcome to the **R Programming with Visualizations** repository! 
